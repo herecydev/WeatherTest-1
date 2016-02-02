@@ -15,6 +15,8 @@ namespace WeatherTest.Bbc
         {
             app.UseIISPlatformHandler();
 			app.UseMvc();
+			app.UseSwaggerGen();
+			app.UseSwaggerUi();
 			app.UseWelcomePage();
 		}
 		
