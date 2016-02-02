@@ -15,6 +15,7 @@ namespace WeatherTest.Bbc
         {
             app.UseIISPlatformHandler();
 			app.UseMvc();
+			app.UseWelcomePage();
 		}
 		
         public static void Main(string[] args) => WebApplication.Run<Startup>(args);
