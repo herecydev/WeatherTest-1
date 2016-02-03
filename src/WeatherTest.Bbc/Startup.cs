@@ -9,6 +9,7 @@ namespace WeatherTest.Bbc
         public void ConfigureServices(IServiceCollection services)
         {
 			services.AddMvc();
+			services.AddSwaggerGen();
 		}
 		
         public void Configure(IApplicationBuilder app)
