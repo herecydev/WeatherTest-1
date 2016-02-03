@@ -1,0 +1,16 @@
+﻿{
+	"version": "1.0.0-*",
+	"description": "WeatherTest.Bbc.Tests Class Library",
+	"authors": [ "Matt Ridgway" ],
+	"projectUrl": "https://github.com/mattridgway/WeatherTest",
+	"licenseUrl": "https://github.com/mattridgway/WeatherTest/LICENSE",
+
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mattridgway/WeatherTest"
+	},
+
+	"frameworks": {
+		"dnx451": { }
+	}
+}
