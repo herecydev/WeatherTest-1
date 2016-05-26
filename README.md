@@ -1,4 +1,4 @@
-# WeatherTest
+# Weather Test
 
 4Com technical test for prospective C# developers.
 
@@ -14,7 +14,7 @@ We find this challenge normally takes a few hours to complete, however you may s
 Your code should be written in a way that shows you have a good understanding of software design patterns and SOLID principles.
 Should there be any aspects, which given more time you would have refactored, please add a README explaining what you would like to have done.
 
-You should submit a link to your respository (GitHub, GitLab, BitBucket, etc), rather than a compliled application / link to the deployed website.
+You should submit a link to your repository (GitHub, GitLab, BitBucket, etc), rather than a compiled application / link to the deployed website.
 
 If you believe the brief is unclear in anyway or you have any questions please feel free to ask. 
 
